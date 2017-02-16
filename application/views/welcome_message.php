@@ -11,7 +11,7 @@
 
 <div class="container">
 	<div class="row">
-		<h1>mochi es puto</h1>
+		<h1>mochi es tu padre</h1>
 	</div>
 </div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script> 
